@@ -15,10 +15,10 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build && gh-pages -d dist -b dev",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "npm run build && gh-pages -d dist -b master"
+    "deploy": "react-scripts build && gh-pages -d dist -b dev"
   },
   "eslintConfig": {
     "extends": [
