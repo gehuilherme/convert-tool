@@ -1,6 +1,5 @@
 import {Container, Form, Button} from 'react-bootstrap';
 import React, { useState } from "react";
-import CallAlertBox from '../Components/Alert';
 import CallModal from '../Components/Modal';
 
 function Dec2Bin() {
