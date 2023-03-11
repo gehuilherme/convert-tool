@@ -26,7 +26,7 @@ function Dec2Bin() {
     const binary = convert(decimalValue);
     setBinaryValue(binary);
     setModalTitle(`Result of Conversion:`);
-    setModalMessage(`${binary}`);
+    setModalMessage(`The binary number is <b>${binary}</b>`);
     setModalButtonText(`Close`);
     handleShow(true);
   }
