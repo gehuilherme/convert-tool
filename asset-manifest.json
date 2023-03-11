@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/convert-tool/static/css/main.c2cab247.css",
+    "main.js": "/convert-tool/static/js/main.97847c9d.js",
+    "index.html": "/convert-tool/index.html",
+    "main.c2cab247.css.map": "/convert-tool/static/css/main.c2cab247.css.map",
+    "main.97847c9d.js.map": "/convert-tool/static/js/main.97847c9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.97847c9d.js"
+  ]
+}
